@@ -31,4 +31,4 @@ Furthermore, all elements within the Work System Framework Diagram can be system
 Another important aspect supported by the modeling tool is represented by the ability to model subsystems, as a special kind of BPMN subprocesses, contextualizing them as WSF diagrams from a semantics point of view. Semantic traceability for Enterprise Architecture purposes is enabled by inter-model hyperlinks, leveraging the bridge created between WST specific concepts and diagrammatic models.
 An example of subsystem representation can be seen below:
 
-![An example for subsystem representation in the WSTBPMN modeling tool](Figures/subsystem.png)
+![An example for subsystem representation in the WSTBPMN modeling tool](Figures/Subsystem_example.png)
