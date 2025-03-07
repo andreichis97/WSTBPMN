@@ -1,6 +1,6 @@
 # WSTBPMN Modeling Tool
 
-The installation instructions for the modeling tool are available here [a relative link](Installation_instructions.md)
+The installation instructions for the modeling tool are available here [installation instructions](Installation_instructions.md)
 
 In the following, a modeling scenario where the WSTBPMN tool was used, is presented.
 
