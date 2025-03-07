@@ -25,3 +25,6 @@ From a technological perspective, the work system is underpinned by a repository
 The infrastructure supporting this work system consists of two servers (SV1 and SV2), designated for document storage and CRM operations. From a regulatory standpoint, the system operates under the National Education Law, Revision X / 2023, which stipulates the legal framework for conducting university admission examinations.
 
 Furthermore, all elements within the Work System Framework Diagram can be systematically linked to additional modeling paradigms, including BPMN, UML, and the Work Environment Model, thereby ensuring a cohesive and extensible framework for system representation.
+
+![A running example for WSTBPMN modeling tool](Figures/Running_example.png)
+
